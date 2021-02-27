@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    background-color: white;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.home-card-heading {
+    font-family: "Bree Serif";
+    font-weight: 600;
+    color: #f19116;
+    font-size: 28px;
+}
+
+.home-card-para {
+    font-family: "Bree Serif";
+    font-weight: 500;
+    color: #7b8794;
+    font-size: 20px;
+}
+
+.home-button {
+    background-color: #f19116;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    border-width: 0px;
+
+}
+
+.flats-page {
+    background-color: #222222;
+}
+
+.flats-page-heading {
+    font-family: "Bree Serif";
+    font-size: 28px;
+    color: #f19116;
+    font-weight: 500;
+}
+
+.flat-card {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.card-heading {
+    color: #0f0e46;
+    font-family: "Bree Serif";
+    font-size: 32px;
+    font-weight: 600;
+
+}
+
+.card-para {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    font-size: 15px;
+
+}
+
+.flat-top-bg-container-3BHK {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png");
+    background-size: cover;
+    height: 40vh;
+}
+
+.flat-top-bg-container-2BHK {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d2-img.png");
+    background-size: cover;
+    height: 40vh;
+}
+
+.flat-top-bg-container-4BHK {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d3-img.png");
+    background-size: cover;
+    height: 40vh;
+}
+
+.flat-bottom-bg-container {
+    background-color: #222222;
+}
+
+.location-image {
+    width: 25px;
+    height: 25px;
+}
+
+.address {
+    color: white;
+    font-family: "Bree Serif";
+    font-weight: 300;
+}
+
+.hr-line {
+    background-color: white;
+    height: 1px;
+}
+
+.flat-description {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 16px;
+}
